@@ -1,80 +1,83 @@
 [
-  {
-    name: "Natasha Syed",
-    position: "Founder, CEO",
-    image:
-      "https://stgreenskills001.blob.core.windows.net/member-skilledin/natasha.png",
-    about:
-      "With over 15 years of work experience in various fields, Natasha is a passionate and visionary leader who strives to create positive social and environmental impact through innovation, education, and collaboration. Natasha is the founder and CEO of SkilledIn Green, a gamified talent marketplace that empowers people to unleash their potential and pursue careers in the green economy. Natasha holds a CIMA Advanced Diploma in Management Accounting and is a Certified Work Futurist accredited by the Institute for the Future. She is also an Economist, UX designer,  and a Cybersecurity professional.At SkilledIn, Natasha leads a diverse and talented team of engineers and marketers who share a common vision of transforming the way people learn, work, and grow.",
-    role: "member",
-  },
-  {
-    name: "Hassan Zaidi",
-    position: "Cloud Engineer",
-    image:
-      "https://stgreenskills001.blob.core.windows.net/member-skilledin/hassan.png",
-    about:
-      "Meeow meow mmmeowww meeeow meow meow mmmeow. Meow meeeow meow mmmeow meow meeeowww meow meow meow meeeoww. Meow mmmeowww meeeow meow meow mmmeow meeeow meow meeeoww.",
-    role: "member",
-  },
-  {
-    name: "Zainul Alim",
-    position: "Full-Stack Engineer",
-    image:
-      "https://stgreenskills001.blob.core.windows.net/member-skilledin/inul.png",
-    about:
-      "Meeow meow mmmeowww meeeow meow meow mmmeow. Meow meeeow meow mmmeow meow meeeowww meow meow meow meeeoww. Meow mmmeowww meeeow meow meow mmmeow meeeow meow meeeoww.",
-    role: "member",
-  },
-  {
-    name: "Nasution",
-    position: "Full-Stack Engineer",
-    image:
-      "https://stgreenskills001.blob.core.windows.net/member-skilledin/nas.png",
-    about:
-      "Meeow meow mmmeowww meeeow meow meow mmmeow. Meow meeeow meow mmmeow meow meeeowww meow meow meow meeeoww. Meow mmmeowww meeeow meow meow mmmeow meeeow meow meeeoww.",
-    role: "member",
-  },
-  {
-    name: "A.A. Sumitro",
-    position: "Back-End Architect",
-    image:
-      "https://stgreenskills001.blob.core.windows.net/member-skilledin/agus.png",
-    about:
-      "Meeow meow mmmeowww meeeow meow meow mmmeow. Meow meeeow meow mmmeow meow meeeowww meow meow meow meeeoww. Meow mmmeowww meeeow meow meow mmmeow meeeow meow meeeoww.",
-    role: "member",
-  },
-  {
-    name: "Nuke Gunarto",
-    position: "Market Development",
-    image:
-      "https://stgreenskills001.blob.core.windows.net/member-skilledin/nuke.png",
-    about:
-      "Meeow meow mmmeowww meeeow meow meow mmmeow. Meow meeeow meow mmmeow meow meeeowww meow meow meow meeeoww. Meow mmmeowww meeeow meow meow mmmeow meeeow meow meeeoww.",
-    role: "member",
-  },
-  {
-    name: "Prof. May Tan-Mullins",
-    image:
-      "https://stgreenskills001.blob.core.windows.net/member-skilledin/may.png",
-    about:
-      "May Tan-Mullins joined James Cook University Singapore on 1 Sept 2021 as Dean International and additionally became the Chief Sustainability Officer on 21 April 2022. Her main portfolio includes recruitment, external relations, industry and community engagement and advancing the sustainability agenda at the university level. Prior to this position, she was the Vice Provost of Teaching and Learning at University of Nottingham Ningbo China. Her past senior leadership experience include Associate Provost for Global Engagement, Dean of Graduate School and the Director of Institute of Asia and Pacific Studies. She is also a professor in International Relations and her research interests are political ecology of rising China, environmental and energy justice, poverty alleviation and building resilience for the poorest and most vulnerable against climate change. Based on her expertise in various international development and human security issues, she is a consultant for the UNDP, National Bureau of Asian Research (US), the Revenue Watch Institute (US) and the Chinese government.  Professor May Tan-Mullins was awarded multiple provincial and municipal awards by the Chinese government and the prestigious global Rockefeller Bellagio writing residency in Bellagio Centre, Lake Como in Italy. ",
-    role: "advisory",
-  },
-  {
-    name: "Dr. Dalal AlGhawas",
-    image:
-      "https://stgreenskills001.blob.core.windows.net/member-skilledin/dalal.png",
-    about:
-      "Dr. Dalal AlChawas is the Founder of SWAPAC, an agrifood consultancy focused on food security and bridging the commercial and cultural worlds in the Gulf Cooperation Council (GCC) and Asia Pacific. She is a specialist, investing in future food technologies. Combining research, commercialization, capital and partnership to support high growth startups. Technical specialisation in food safety, biotechnology, diagnostics, clinical research and public health. Established the first food technology accelerator in Hong Kong and the World's first Alternative Protein accelerator. She has worked with >100 global technology startups. Focused on food-and agri-tech, next-generation foods, alternative protein, cellular- agriculture, Halal guidelines, sustainability, smart kitchen equipment, med-tech and software. International thought leader in the food technology space 100+ conferences, TV, podcasts, roundtables, industry reports, start-up competitions.Kuwaiti Citizen, Hong Kong Permanent Resident, well connected in APAC and GCC. Doctor of Philosophy (Food Science and Food Biotechnology) from leading Asian University of Hong Kong with publications in top tier peer reviewed journals, startup manuals and industry reports.",
-    role: "advisory",
-  },
-  {
-    name: "Luis Chan, CESGA",
-    image:
-      "https://stgreenskills001.blob.core.windows.net/member-skilledin/louis.png",
-    about:
-      "Louis is currently the sustainability manager for an investment holding company. In his role, he assumes leadership in the formulation of sustainability strategies and policies, conducts ESG due diligence and also the sustainability reporting efforts with the subsidiaries. In addition, as a Trustee for a UK charity, Louis has played a key role in the establishment and enforcement of robust sustainability policies. His visionary approach ensures the charity's unwavering commitment to achieving carbon neutrality by 2030, thereby making a tangible impact on global environmental goals. Louis has also co-founded and advised various start-ups, primarily in the climate-tech space and he specialises in helping businesses scale and doing investor relations work. Personally, he enjoys navigating the intricacies of capital markets to drive positive change and sustainable investments.Louis boasts a distinguished professional profile, holding coveted credentials such as the Certified Sustainability Excellence Associate (SEA) from the esteemed International Society of Sustainability Professionals. His expertise extends further as a Certified ESG Analyst and a holder of the GARP SCR designation, showcasing a comprehensive understanding of Environmental, Social, and Governance (ESG) principles. Most recently, Louis completed the prestigious Sustainability course with MIT Professional Education, further solidifying his position at the forefront of the sustainability landscape.",
-    role: "advisory",
-  },
-]
+      {
+        "name": "Natasha Syed",
+        "position": "Founder, CEO",
+        "image":
+          "https://stgreenskills001.blob.core.windows.net/member-skilledin/natasha.png",
+        "about":
+          "With over 15 years of work experience in various fields, Natasha is a passionate and visionary leader who strives to create positive social and environmental impact through innovation, education, and collaboration. Natasha is the founder and CEO of SkilledIn Green, a gamified talent marketplace that empowers people to unleash their potential and pursue careers in the green economy. Natasha holds a CIMA Advanced Diploma in Management Accounting and is a Certified Work Futurist accredited by the Institute for the Future. She is also an Economist, UX designer,  and a Cybersecurity professional.At SkilledIn, Natasha leads a diverse and talented team of engineers and marketers who share a common vision of transforming the way people learn, work, and grow.",
+        "role": "member"
+      },
+      {
+        "name": "Hassan Zaidi",
+        "position": "Cloud Engineer",
+        "image":
+          "https://stgreenskills001.blob.core.windows.net/member-skilledin/hassan.png",
+        "about":
+          "Meeow meow mmmeowww meeeow meow meow mmmeow. Meow meeeow meow mmmeow meow meeeowww meow meow meow meeeoww. Meow mmmeowww meeeow meow meow mmmeow meeeow meow meeeoww.",
+        "role": "member"
+      },
+      {
+        "name": "Zainul Alim",
+        "position": "Full-Stack Engineer",
+        "image":
+          "https://stgreenskills001.blob.core.windows.net/member-skilledin/inul.png",
+        "about":
+          "Meeow meow mmmeowww meeeow meow meow mmmeow. Meow meeeow meow mmmeow meow meeeowww meow meow meow meeeoww. Meow mmmeowww meeeow meow meow mmmeow meeeow meow meeeoww.",
+        "role": "member"
+      },
+      {
+        "name": "Nasution",
+        "position": "Full-Stack Engineer",
+        "image":
+          "https://stgreenskills001.blob.core.windows.net/member-skilledin/nas.png",
+        "about":
+          "Meeow meow mmmeowww meeeow meow meow mmmeow. Meow meeeow meow mmmeow meow meeeowww meow meow meow meeeoww. Meow mmmeowww meeeow meow meow mmmeow meeeow meow meeeoww.",
+        "role": "member"
+      },
+      {
+        "name": "A.A. Sumitro",
+        "position": "Back-End Architect",
+        "image":
+          "https://stgreenskills001.blob.core.windows.net/member-skilledin/agus.png",
+        "about":
+          "Meeow meow mmmeowww meeeow meow meow mmmeow. Meow meeeow meow mmmeow meow meeeowww meow meow meow meeeoww. Meow mmmeowww meeeow meow meow mmmeow meeeow meow meeeoww.",
+        "role": "member"
+      },
+      {
+        "name": "Nuke Gunarto",
+        "position": "Market Development",
+        "image":
+          "https://stgreenskills001.blob.core.windows.net/member-skilledin/nuke.png",
+        "about":
+          "Meeow meow mmmeowww meeeow meow meow mmmeow. Meow meeeow meow mmmeow meow meeeowww meow meow meow meeeoww. Meow mmmeowww meeeow meow meow mmmeow meeeow meow meeeoww.",
+        "role": "member"
+      },
+      {
+        "name": "Prof. May Tan-Mullins",
+        "position": "",
+        "image":
+          "https://stgreenskills001.blob.core.windows.net/member-skilledin/may.png",
+        "about":
+          "May Tan-Mullins joined James Cook University Singapore on 1 Sept 2021 as Dean International and additionally became the Chief Sustainability Officer on 21 April 2022. Her main portfolio includes recruitment, external relations, industry and community engagement and advancing the sustainability agenda at the university level. Prior to this position, she was the Vice Provost of Teaching and Learning at University of Nottingham Ningbo China. Her past senior leadership experience include Associate Provost for Global Engagement, Dean of Graduate School and the Director of Institute of Asia and Pacific Studies. She is also a professor in International Relations and her research interests are political ecology of rising China, environmental and energy justice, poverty alleviation and building resilience for the poorest and most vulnerable against climate change. Based on her expertise in various international development and human security issues, she is a consultant for the UNDP, National Bureau of Asian Research (US), the Revenue Watch Institute (US) and the Chinese government.  Professor May Tan-Mullins was awarded multiple provincial and municipal awards by the Chinese government and the prestigious global Rockefeller Bellagio writing residency in Bellagio Centre, Lake Como in Italy. ",
+        "role": "advisory"
+      },
+      {
+        "name": "Dr. Dalal AlGhawas",
+        "position": "",
+        "image":
+          "https://stgreenskills001.blob.core.windows.net/member-skilledin/dalal.png",
+        "about":
+          "Dr. Dalal AlChawas is the Founder of SWAPAC, an agrifood consultancy focused on food security and bridging the commercial and cultural worlds in the Gulf Cooperation Council (GCC) and Asia Pacific. She is a specialist, investing in future food technologies. Combining research, commercialization, capital and partnership to support high growth startups. Technical specialisation in food safety, biotechnology, diagnostics, clinical research and public health. Established the first food technology accelerator in Hong Kong and the World's first Alternative Protein accelerator. She has worked with >100 global technology startups. Focused on food-and agri-tech, next-generation foods, alternative protein, cellular- agriculture, Halal guidelines, sustainability, smart kitchen equipment, med-tech and software. International thought leader in the food technology space 100+ conferences, TV, podcasts, roundtables, industry reports, start-up competitions.Kuwaiti Citizen, Hong Kong Permanent Resident, well connected in APAC and GCC. Doctor of Philosophy (Food Science and Food Biotechnology) from leading Asian University of Hong Kong with publications in top tier peer reviewed journals, startup manuals and industry reports.",
+        "role": "advisory"
+      },
+      {
+        "name": "Luis Chan, CESGA",
+        "position": "",
+        "image":
+          "https://stgreenskills001.blob.core.windows.net/member-skilledin/louis.png",
+          "about":
+          "Louis is currently the sustainability manager for an investment holding company. In his role, he assumes leadership in the formulation of sustainability strategies and policies, conducts ESG due diligence and also the sustainability reporting efforts with the subsidiaries. In addition, as a Trustee for a UK charity, Louis has played a key role in the establishment and enforcement of robust sustainability policies. His visionary approach ensures the charity's unwavering commitment to achieving carbon neutrality by 2030, thereby making a tangible impact on global environmental goals. Louis has also co-founded and advised various start-ups, primarily in the climate-tech space and he specialises in helping businesses scale and doing investor relations work. Personally, he enjoys navigating the intricacies of capital markets to drive positive change and sustainable investments.Louis boasts a distinguished professional profile, holding coveted credentials such as the Certified Sustainability Excellence Associate (SEA) from the esteemed International Society of Sustainability Professionals. His expertise extends further as a Certified ESG Analyst and a holder of the GARP SCR designation, showcasing a comprehensive understanding of Environmental, Social, and Governance (ESG) principles. Most recently, Louis completed the prestigious Sustainability course with MIT Professional Education, further solidifying his position at the forefront of the sustainability landscape.",
+        "role": "advisory"
+      }
+    ]
